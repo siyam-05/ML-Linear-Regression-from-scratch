@@ -65,7 +65,17 @@ Run the project:
 
 ---
 
-##  Output
+##  Output 
+# Linear Regression from Scratch (Diabetes Dataset)
+
+## Loss Curve
+![Loss Curve](outputs/loss_curve.png)
+
+## True vs Predicted
+![Prediction](outputs/true_vs_pred.png)
+
+## Feature Visualization
+![Feature Plot](outputs/feature_plot.png)
 
 * Console:
 
