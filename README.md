@@ -30,16 +30,21 @@ The main goal is to understand the fundamentals of:
 
   ml-linear-regression-from-scratch
 
-├── src/                     
+## Project Structure
+
+```text
+ml-linear-regression-from-scratch
+├── src/
 │   ├── __init__.py
 │   ├── linear_regression.py
 │   └── diabetes_dataset.py
-├── outputs/                
-├── notebooks/              
-├── tests/                  
+├── outputs/
+├── notebooks/
+├── tests/
 ├── requirements.txt
 ├── README.md
 └── setup.py
+```
 
 
 ##  Requirements
