@@ -93,4 +93,6 @@ plt.title("Single Feature View")
 plt.legend()
 plt.show()
 plt.savefig("outputs/loss_curve.png")
+plt.savefig("ml_linear_regression_from_scratch/loss_curve.png")
+
 plt.close()
