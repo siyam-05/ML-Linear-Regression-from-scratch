@@ -27,7 +27,7 @@ The main goal is to understand the fundamentals of:
 ##  Project Structure
 
 
-
+``bash
   ml-linear-regression-from-scratch/
 ├── src/                     
 │   ├── __init__.py
